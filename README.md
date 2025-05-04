@@ -5,11 +5,11 @@ Tarefas da disciplina Programação 1 — IMPA Tech
 
 Escreva um programa em Python que recebe como entrada 5 valores e, efetuando **no máximo 7 comparações**, ordena os valores de entrada. Este exercício foi proposto e discutido em aula.
 
-## Descrição da Solução
+## Solução
 
 O arquivo `ordenacao.py` contém uma implementação em Python que segue o enunciado.
 
-## Atividade 2: Jogo da Velha
+##  Enunciado da Atividade 2: Jogo da Velha
 
 ### Enunciado
 
@@ -23,6 +23,6 @@ O jogo deve:
   - Não houver mais possíveis jogadas (empate).
 - Imprimir o estado atual do tabuleiro após cada jogada.
 
-## Descrição da Solução
+## Solução
 
 O arquivo `jogo_da_velha.py` contém uma implementação em Python que segue o enunciado.
