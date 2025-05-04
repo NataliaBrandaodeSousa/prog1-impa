@@ -24,3 +24,12 @@ O jogo deve:
 ## Solução
 
 O arquivo `jogo_da_velha.py` contém uma implementação em Python que segue o enunciado.
+
+##  Enunciado da Atividade 3: Jogo da Velha
+
+Faça um programa em Python que recebe como entrada um inteiro n e imprime a sequência mínima de movimentos para ganhar o jogo da Torre de Hanói com n discos e três pinos.
+Seu programa também deve retornar a quantidade de movimentos dessa sequência.
+
+## Solução
+
+O arquivo `torre_de_hanoi.py` contém uma implementação em Python que segue o enunciado.
