@@ -1,7 +1,7 @@
 # prog1-impa
 Tarefas da disciplina Programação 1 — IMPA Tech 
 
-## Enunciado da Atividade
+## Enunciado da Atividade 1
 
 Escreva um programa em Python que recebe como entrada 5 valores e, efetuando **no máximo 7 comparações**, ordena os valores de entrada. Este exercício foi proposto e discutido em aula.
 
