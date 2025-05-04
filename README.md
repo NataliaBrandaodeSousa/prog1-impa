@@ -11,8 +11,6 @@ O arquivo `ordenacao.py` contém uma implementação em Python que segue o enunc
 
 ##  Enunciado da Atividade 2: Jogo da Velha
 
-### Enunciado
-
 Programe o jogo da velha em Python!
 
 O jogo deve:
