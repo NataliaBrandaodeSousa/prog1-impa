@@ -54,7 +54,7 @@ informa o nome e o número dos candidatos que vão para o segundo turno .
 Caso não haja segundo turno, o programa informa o nome do candidato
 eleito.
 
-##  Enunciado da Atividade 5:  Manipulação de arquivos texto
+##  Enunciado da Atividade 5:  Gerador de texto
 
 O enunciado está no arquivo `gerador_de_texto_markov.pdf`
 
