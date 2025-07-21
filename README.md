@@ -57,6 +57,7 @@ eleito.
 ##  Enunciado da Atividade 5:  Manipulação de arquivos texto
 
 O enunciado está no arquivo `gerador_de_texto_markov.pdf`
+
 Um possível teste é utilizar o arquivo texto `g1_rj.txt`
 
 ## Solução
