@@ -53,3 +53,12 @@ O programa verifica se haverá segundo turno em sua cidade. Se for o caso, o pro
 informa o nome e o número dos candidatos que vão para o segundo turno .
 Caso não haja segundo turno, o programa informa o nome do candidato
 eleito.
+
+##  Enunciado da Atividade 5:  Manipulação de arquivos texto
+
+O enunciado está no arquivo `gerador_de_texto_markov.pdf`
+Um possível teste é utilizar o arquivo texto `g1_rj.txt`
+
+## Solução
+
+O arquivo `markov.py` contém uma implementação em Python que segue o enunciado.
