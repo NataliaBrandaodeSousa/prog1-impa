@@ -33,3 +33,23 @@ Seu programa também deve retornar a quantidade de movimentos dessa sequência.
 ## Solução
 
 O arquivo `torre_de_hanoi.py` contém uma implementação em Python que segue o enunciado.
+
+
+##  Enunciado da Atividade 4:  Manipulação de arquivos texto
+
+O enunciado está no arquivo `Atividade sobre manipulação de arquivos texto.pdf`
+
+## Solução
+
+O arquivo `arquivoTexto.py` contém uma implementação em Python que contém subprogramas, que ler da entrada padrão o nome de um arquivo do
+tipo texto contendo uma matriz de inteiros positivos. O programa primeiro imprime a matriz armazenada no arquivo de entrada. Em
+seguida, processa o arquivo verificando e informando se a matriz de entrada é quadrada e em caso
+positivo se ela é simétrica. Por fim, imprima a moda da matriz.
+
+Já o arquivo `votos.py` contém subprogramas, que ler da entrada padrão o nome de dois
+arquivos do tipo texto. O primeiro contém os votos para prefeito de sua cidade e o segundo
+contém a lista dos candidatos registrados no TSE.
+O programa verifica se haverá segundo turno em sua cidade. Se for o caso, o programa
+informa o nome e o número dos candidatos que vão para o segundo turno .
+Caso não haja segundo turno, o programa informa o nome do candidato
+eleito.
