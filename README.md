@@ -1,5 +1,5 @@
 # prog1-impa
-Tarefas e provas da disciplina Programação 1 — IMPA Tech 
+Tarefas e provas da disciplina Programação 1 — IMPA Tech (1º Semestre de 2025)
 
 ## Organização do Repositório
 
