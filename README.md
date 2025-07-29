@@ -1,5 +1,21 @@
 # prog1-impa
-Tarefas da disciplina Programação 1 — IMPA Tech 
+Tarefas e provas da disciplina Programação 1 — IMPA Tech 
+
+## Organização do Repositório
+
+- `atividades/`: Contém os exercícios semanais passados pelo professor.
+- `PROVAS/AV1`: Questões resolvidas da primeira avaliação (AV1). Os enunciados são questões do beecrowd 
+1940 (q1)
+2189 (q2)
+1272 (q3)
+1574 (q4)
+1259 (q5)
+- `PROVAS/AV2`: Questões resolvidas da segunda avaliação (AV2). Os enunciados são questões do beecrowd 
+1281 (q1)
+2065 (q2)
+1789 (q3)
+1094 (q4)
+
 
 ## Enunciado da Atividade 1 : Ordenação de 5 elementos com 7 comparações
 
